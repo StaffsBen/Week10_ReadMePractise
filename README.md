@@ -16,7 +16,7 @@ Follow me on my [LinkedIn account](https://www.linkedin.com/in/ben-wakefield-cla
 1. The Legend of Zelda: Majora's Mask
 2. Persona 4
 3. Fire Emblem: Three Houses
-4. The Leegend of Heroes: Trails in the Sky SC
+4. The Legend of Heroes: Trails in the Sky SC
 5. Danganronpa 2: Goodbye Despair
 
 ###### Checklist of this to do for ProDev
