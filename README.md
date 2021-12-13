@@ -19,11 +19,13 @@ Follow me on my [LinkedIn account](https://www.linkedin.com/in/ben-wakefield-cla
 4. The Legend of Heroes: Trails in the Sky SC
 5. Danganronpa 2: Goodbye Despair
 
-###### Checklist of this to do for ProDev
+###### Checklist of tasks to do for ProDev
 
- [x] Create a ReadMe Practise file
- [ ] Complete my portfolio
- [ ] Get started on my Report
+- [x] Create a ReadMe Practise file.
+ 
+- [ ] Complete my portfolio.
+ 
+- [ ] Get started on my Report.
  
 **GEC code snippet**
 ======
